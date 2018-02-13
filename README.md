@@ -22,7 +22,8 @@ Or you can edit `egretProperties.json`
 
 ## Deploy
 
-Create `/debug` folder, copy `index.html` from `/web` to `/debug`
++ Create `/debug` folder
++ Copy `index.html` from `/web` to `/debug`
 
 ![folder](https://az787680.vo.msecnd.net/user/incredible/7aaaf1f5-032e-4c8f-b26d-e0ec2425457b/1518558120_74798.png)
 
