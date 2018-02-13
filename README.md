@@ -16,11 +16,7 @@ Or you can edit `egretProperties.json`
 
 ```json
 {
-  ...
-
   "egret_version": "your_engine_version",
-
-  ...
 }
 ```
 
